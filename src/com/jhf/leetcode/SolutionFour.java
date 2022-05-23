@@ -8,7 +8,6 @@ public class SolutionFour
     StringBuilder sb = new StringBuilder("");
 
         for (int i = sarray.length - 1; i >= 0; i--) {
-
     if (!sarray[i].isEmpty())
         sb.append(sarray[i]);
 
